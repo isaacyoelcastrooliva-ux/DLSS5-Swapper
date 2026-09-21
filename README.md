@@ -1,3 +1,4 @@
+freefire
 <p align="center">
   <img src="docs/banner.png" alt="DLSS 5 Swapper" width="100%">
 </p>
